@@ -31,6 +31,7 @@ client.on('ready', async () => {
     .setDetails(`Luna is Cute`)
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1103492118913224785/1227831994264588388/5210BA8D-D7FD-4E08-97E3-3E5E382BC6D9.gif?ex=6629d6a7&is=661761a7&hm=40709eb5fe274354e98f4947210cf0fac6e58dd44e252f811841f889b6300cee&=') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Baby, you take my breath away.')
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1007140129451819068/1228024133854560266/3c665d692d0fc290c55a2519fe918821.png?ex=662a8999&is=66181499&hm=b8592e9ca3b037378dc515d23e74a81d7b28b5d13cc79688384e33021ddfbfbb&=&format=webp&quality=lossless&width=468&height=468')
     .setAssetsSmallText('Fuck that nigga Nyx...') //Text when you hover the Small image
     .addButton('Pain', 'https://open.spotify.com/track/34RdcQ0rkkbdjbx7ks6BJF?si=3135c7e4fc524462')
     .addButton('Hoyo Noise', 'https://open.spotify.com/track/49xooPdasAQlKhW6Sf1Rhq?si=a7c5656af30e41be');
