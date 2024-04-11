@@ -38,7 +38,6 @@ client.on('ready', async () => {
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
 
   
-      r.setDetails(newDetails);
       client.user.setActivity(r);
       prevTime = newTime;
 });
