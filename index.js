@@ -39,7 +39,7 @@ client.on('ready', async () => {
 
   
       client.user.setActivity(r);
-      prevTime = newTime;
+  
 });
 
 const mySecret = process.env['TOKEN'];
