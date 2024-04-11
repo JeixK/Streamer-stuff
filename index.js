@@ -26,7 +26,7 @@ client.on('ready', async () => {
     .setApplicationId('1227824143035138048')
     .setType('STREAMING')
     .setURL('https://discord.com/channels/@me/1103492118913224785/1227830311862272032') //Must be a youtube video link 
-    .setState('LeVaneEmpire')
+    .setState('JeixK')
     .setName('Jei')
     .setDetails(`Luna is Cute`)
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1103492118913224785/1227831994264588388/5210BA8D-D7FD-4E08-97E3-3E5E382BC6D9.gif?ex=6629d6a7&is=661761a7&hm=40709eb5fe274354e98f4947210cf0fac6e58dd44e252f811841f889b6300cee&=') //You can put links in tenor or discord and etc.
